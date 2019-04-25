@@ -1,1 +1,5 @@
+# 节点列表
+
+#Xu.CQ先驱者节点
+
 ssr://MTAzLjQ0LjYxLjE4MjoyMjMzOmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjplSFY0ZFhwNGR6WXlNek0
